@@ -15,8 +15,8 @@
 :root {
 	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
 	--app-blur: 6px;
-	--app-margin: 2px;
-	--app-radius: 2px; /*	-	*/
+	--app-margin: 24px;
+	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
 	--accent-saturation: 77.5%;
@@ -27,10 +27,10 @@
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 
-	--message-color: rgba(0,0,0,0.9);
-	--message-radius: 2px;
-	--message-padding-top: 2px;
-	--message-padding-side: 2px; /*	-	*/
+	--message-color: rgba(0,0,0,0.8);
+	--message-radius: 8px;
+	--message-padding-top: 8px;
+	--message-padding-side: 8px; /*	-	*/
 	
 	--reply-hue: 226;
 	--reply-saturation: 77.4%;
@@ -41,16 +41,16 @@
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #fff;
-	--textarea-radius: 2px;  /*	-	*/
+	--textarea-radius: 22px;  /*	-	*/
 
 	--card-color: rgba(0,0,0,0.4);
 	--card-color-hover: rgba(0,0,0,0.5);
 	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
 	
-	--button-height: 8px;
-	--button-padding: 0 4px;
+	--button-height: 32px;
+	--button-padding: 0 16px;
 	--button-action-color: #000;
-	--button-radius: 4px; /*	-	*/
+	--button-radius: 16px; /*	-	*/
 
 	--interactive-normal: #aaa;
 	--interactive-hover: #ddd;
