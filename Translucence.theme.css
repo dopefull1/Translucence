@@ -28,9 +28,9 @@
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 
 	--message-color: rgba(0,0,0,0.9);
-	--message-radius: 8px;
-	--message-padding-top: 8px;
-	--message-padding-side: 8px; /*	-	*/
+	--message-radius: 2px;
+	--message-padding-top: 2px;
+	--message-padding-side: 2px; /*	-	*/
 	
 	--reply-hue: 226;
 	--reply-saturation: 77.4%;
