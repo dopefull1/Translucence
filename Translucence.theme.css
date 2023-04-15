@@ -15,7 +15,7 @@
 :root {
 	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
 	--app-blur: 6px;
-	--app-margin: 24px;
+	--app-margin: 8px;
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
@@ -47,10 +47,10 @@
 	--card-color-hover: rgba(0,0,0,0.5);
 	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
 	
-	--button-height: 32px;
+	--button-height: 8px;
 	--button-padding: 0 4px;
 	--button-action-color: #000;
-	--button-radius: 16px; /*	-	*/
+	--button-radius: 4px; /*	-	*/
 
 	--interactive-normal: #aaa;
 	--interactive-hover: #ddd;
